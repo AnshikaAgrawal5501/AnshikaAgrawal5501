@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anshikaagrawal5501@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1zDDUSt03Bgm42WX9X3Zr60PE1309M67G/view?usp=sharing)
+- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1zDDUSt03Bgm42WX9X3Zr60PE1309M67G/view?usp=sharing)**
 
 <br>
 
@@ -46,7 +46,7 @@
 <a href="https://www.codechef.com/users/anshika_ag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshika_ag" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshika_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshika_agrawal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshika_agrawal_5501/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshika_agrawal_5501/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/anshika_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="anshika_agrawal" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Anshika_Agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="anshika_agrawal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anshikaagrawal5501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshikaagrawal5501" height="30" width="40" /></a>
 </p>
 
