@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anshikaagrawal5501@gmail.com**
 
-- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1zDDUSt03Bgm42WX9X3Zr60PE1309M67G/view?usp=sharing)**
+- 📄 Know about my experiences **[here](https://drive.google.com/drive/u/0/folders/1hDUaPwy4cRVlAs6UfvWoyQAZSKXP2Jkg)**
 
 <br>
 
