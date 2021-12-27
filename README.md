@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Web Developer and coding enthusiast working constatntly in uplifitng my skills.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshikaagrawal5501&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaagrawal5501" /> </p>
+<img align="right" src="./image.jpg" width="225px" />
 
-<img align="right" src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300">
 
 ## 🙋‍♂️ About Me
-
+        
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Java and Frontend**
@@ -14,6 +14,7 @@
 - 📫 How to reach me **anshikaagrawal5501@gmail.com**
 
 - 📄 Know about my experiences **[here](https://drive.google.com/drive/u/0/folders/1hDUaPwy4cRVlAs6UfvWoyQAZSKXP2Jkg)**
+    
 
 <br>
 
